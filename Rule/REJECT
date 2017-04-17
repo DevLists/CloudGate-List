@@ -53,6 +53,7 @@ DOMAIN,adcdn.hatena.ne.jp
 DOMAIN,adm.10jqka.com.cn
 DOMAIN,adcdn.goo.ne.jp
 DOMAIN-SUFFIX,ad-mapps.com
+DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,apppv.zol.com.cn
 DOMAIN-SUFFIX,aiwuqi.com.cn
 DOMAIN-SUFFIX,admx.baixing.com
@@ -289,6 +290,7 @@ DOMAIN,erebor.doban.com
 DOMAIN,entry.baidu.com
 DOMAIN-SUFFIX,findjapan.cn
 DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,fastapi.net
 DOMAIN-SUFFIX,fugetech.com
 DOMAIN-SUFFIX,file.market.xiaomi.com
 DOMAIN-SUFFIX,flurry.com
