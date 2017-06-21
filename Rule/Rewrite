@@ -162,3 +162,4 @@
 ^(http|https)://delete-api2.getflex.co/user/profileSettings/info - reject
 # Rewrite=>Xiami
 ^(http|https)://spark.api.xiami.com/api https://async.be/Interface?AuthKey=[AUTHKEY]& header
+^(http|https)://spark.xiami.com/api https://async.be/Interface?AuthKey=[AUTHKEY]& header
